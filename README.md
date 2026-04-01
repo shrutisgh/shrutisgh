@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shruti Singh</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Real-Time+App+Builder;WebRTC+Developer;Always+Learning+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;MERN+Stack+Specialist;Real-Time+Systems+Builder;WebRTC+Engineer;Future+Software+Engineer+🚀" />
 </p>
 
 <p align="center">
@@ -10,101 +10,101 @@
 
 ---
 
-<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
 
-### 👩‍💻 About Me
+## 👩‍💻 About Me
 
-* 💻 Full Stack Developer (MERN Stack)
-* 🔴 Building **Live Streaming Apps using WebRTC**
-* 💬 Creating **Real-time Chat & Collaboration Tools**
-* 🧠 Exploring **AI + Backend Engineering**
-* 🎯 Goal: Crack top product-based companies
-
----
-
-### 🚀 Tech Stack
-
-#### 💻 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" />
-</p>
-
-#### 🛠 Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-#### 🗄 Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb" />
-</p>
-
-#### ⚙️ Tools & Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,docker,firebase" />
-</p>
+* 💻 Full Stack Developer specializing in **MERN Stack**
+* 🔴 Building **Live Streaming Platforms (WebRTC)**
+* 💬 Developing **Real-time Chat & Collaboration Apps**
+* 🧠 Exploring **AI Integration + Scalable Backend Systems**
+* 🎯 Focused on cracking **top product-based companies**
 
 ---
 
-### 🔥 Projects
-
-* 🔴 **Live Streaming App**
-  👉 WebRTC + MERN + Multi-user streaming + Chat
-
-* 💬 **Real-Time Chat App**
-  👉 Socket.IO + Authentication + Online users
-
-* 🧠 **AI Code Review Tool**
-  👉 AI-powered suggestions + code analysis
-
-* 🧑‍💻 **Code Collaboration Platform**
-  👉 Monaco Editor + Real-time sync
-
----
-
-### 📊 GitHub Stats
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,tailwind,docker,git,firebase" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+## 🚀 Featured Projects
+
+### 🔴 Live Streaming Platform
+
+> WebRTC • MERN • Multi-user Streaming • Live Chat
+> 🔗 https://github.com/YOUR_USERNAME/live-streaming-app
+
+---
+
+### 💬 Real-Time Chat App
+
+> Socket.IO • JWT Auth • Online Users • Scalable Backend
+> 🔗 https://github.com/YOUR_USERNAME/chat-app
+
+---
+
+### 🧠 AI Code Review Tool
+
+> AI Integration • Code Analysis • Smart Suggestions
+> 🔗 https://github.com/YOUR_USERNAME/ai-code-review
+
+---
+
+### 🧑‍💻 Code Collaboration Platform
+
+> Monaco Editor • Real-time Sync • Multi-user Editing
+> 🔗 https://github.com/YOUR_USERNAME/code-collab
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 📈 Contribution Graph
+## 🏆 Achievements
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ---
 
-### 🌐 Connect With Me
+## 📈 Contribution Graph
 
-<p>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
 </p>
 
 ---
 
-### ⚡ Fun Fact
+## ⚡ Developer Mindset
 
-💡 I love building real-time systems that people actually use
+💡 I believe in building **real-world scalable systems**, not just projects
+
+🚀 Always learning, experimenting, and improving
+
+🔥 Focus: **Backend Engineering | System Design | Real-Time Applications**
 
 ---
 
-<p align="center">🔥 <b>Code. Build. Scale. Repeat.</b> 🔥</p>
+<p align="center">
+  ⭐ <b>"Build things that people actually use."</b> ⭐
+</p>
