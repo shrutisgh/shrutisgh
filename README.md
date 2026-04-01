@@ -8,12 +8,12 @@
 
 <p align="center">
   <a href="https://portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome"></a>
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:shru9113@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/-shruti-singh/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=shrutisgh&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -23,7 +23,7 @@
 * 🔥 Currently building: **Live Streaming Platform (WebRTC + MERN)**
 * 🌱 Learning: **System Design, AI, Backend Scaling**
 * 💼 Working on: **Real-time Apps & Collaboration Tools**
-* 📫 Reach me: **[your-email@gmail.com](mailto:your-email@gmail.com)**
+* 📫 Reach me: **[shru9113@gmail.com](mailto:your-email@gmail.com)**
 * ⚡ Fun fact: **Code | Build | Repeat**
 * 💬 Ask me about: **MERN, WebRTC, Backend, Real-time systems**
 
@@ -75,29 +75,29 @@
 ### 💬 Real-Time Chat App
 
 > Socket.IO • JWT Auth • Online Users
-> 🔗 https://github.com/YOUR_USERNAME/chat-app
+> 🔗 https://github.com/shrutisgh/streamify-video-calls
 
 ---
 
 ### 🧠 AI Code Review Tool
 
 > AI Integration • Smart Suggestions
-> 🔗 https://github.com/YOUR_USERNAME/ai-code-review
+> 🔗 https://github.com/shrutisgh/ai-code-review
 
 ---
 
 ### 🧑‍💻 Code Collaboration Platform
 
 > Monaco Editor • Real-time Sync
-> 🔗 https://github.com/YOUR_USERNAME/code-collab
+> 🔗 https://github.com/shrutisgh/code-collab
 
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shrutisgh&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shrutisgh&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -105,7 +105,7 @@
 ## 🏆 Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=shrutisgh&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ---
@@ -113,14 +113,14 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shrutisgh&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
 ## 💼 Open Source Contributions
 
-* 🔥 Contributed to **BarberPRO Project**
+* 🔥 Contributed to **GSSOC**
 * 💡 Actively contributing to real-world applications
 * 🚀 Exploring open-source collaborations
 
@@ -129,20 +129,14 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-<a href="#"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"></a>
+<a href="https://www.linkedin.com/in/-shruti-singh/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="https://leetcode.com/u/shruti0935/"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"></a>
 <a href="#"><img src="https://img.shields.io/badge/GFG-darkgreen?style=for-the-badge&logo=geeksforgeeks"></a>
 </p>
 
 ---
 
-## ☕ Support
 
-If you like my work, consider supporting me 💙
-
-<a href="#"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support-yellow?style=for-the-badge"></a>
-
----
 
 ## 🎯 Developer Mindset
 
