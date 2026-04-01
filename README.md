@@ -1,7 +1,15 @@
-<h1 align="center">Hi 👋, I'm Shruti Singh</h1>
+<h1 align="center">👋 Hi there! I'm Shruti Singh</h1>
+
+<h3 align="center">🚀 Full Stack Developer | MERN Stack | Real-Time Systems Builder</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;MERN+Stack+Specialist;Real-Time+Systems+Builder;WebRTC+Engineer;Future+Software+Engineer+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;WebRTC+Engineer;Real-Time+App+Builder;AI+Enthusiast;Always+Learning+🚀" />
+</p>
+
+<p align="center">
+  <a href="https://portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome"></a>
+  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
 </p>
 
 <p align="center">
@@ -10,22 +18,47 @@
 
 ---
 
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
+## 🌟 About Me
 
-## 👩‍💻 About Me
-
-* 💻 Full Stack Developer specializing in **MERN Stack**
-* 🔴 Building **Live Streaming Platforms (WebRTC)**
-* 💬 Developing **Real-time Chat & Collaboration Apps**
-* 🧠 Exploring **AI Integration + Scalable Backend Systems**
-* 🎯 Focused on cracking **top product-based companies**
+* 🔥 Currently building: **Live Streaming Platform (WebRTC + MERN)**
+* 🌱 Learning: **System Design, AI, Backend Scaling**
+* 💼 Working on: **Real-time Apps & Collaboration Tools**
+* 📫 Reach me: **[your-email@gmail.com](mailto:your-email@gmail.com)**
+* ⚡ Fun fact: **Code | Build | Repeat**
+* 💬 Ask me about: **MERN, WebRTC, Backend, Real-time systems**
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,tailwind,docker,git,firebase" />
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,cpp,java,python" />
+</p>
+
+### 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### 🤖 Tools & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,firebase,linux" />
 </p>
 
 ---
@@ -41,26 +74,26 @@
 
 ### 💬 Real-Time Chat App
 
-> Socket.IO • JWT Auth • Online Users • Scalable Backend
+> Socket.IO • JWT Auth • Online Users
 > 🔗 https://github.com/YOUR_USERNAME/chat-app
 
 ---
 
 ### 🧠 AI Code Review Tool
 
-> AI Integration • Code Analysis • Smart Suggestions
+> AI Integration • Smart Suggestions
 > 🔗 https://github.com/YOUR_USERNAME/ai-code-review
 
 ---
 
 ### 🧑‍💻 Code Collaboration Platform
 
-> Monaco Editor • Real-time Sync • Multi-user Editing
+> Monaco Editor • Real-time Sync
 > 🔗 https://github.com/YOUR_USERNAME/code-collab
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -85,26 +118,40 @@
 
 ---
 
+## 💼 Open Source Contributions
+
+* 🔥 Contributed to **BarberPRO Project**
+* 💡 Actively contributing to real-world applications
+* 🚀 Exploring open-source collaborations
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-</a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="#"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"></a>
+<a href="#"><img src="https://img.shields.io/badge/GFG-darkgreen?style=for-the-badge&logo=geeksforgeeks"></a>
 </p>
 
 ---
 
-## ⚡ Developer Mindset
+## ☕ Support
 
-💡 I believe in building **real-world scalable systems**, not just projects
+If you like my work, consider supporting me 💙
 
-🚀 Always learning, experimenting, and improving
+<a href="#"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support-yellow?style=for-the-badge"></a>
 
-🔥 Focus: **Backend Engineering | System Design | Real-Time Applications**
+---
+
+## 🎯 Developer Mindset
+
+💡 Build real-world scalable systems
+🚀 Learn continuously
+🔥 Focus: **Backend Engineering | Real-time Systems | System Design**
 
 ---
 
 <p align="center">
-  ⭐ <b>"Build things that people actually use."</b> ⭐
+💜 <b>Code • Build • Scale • Repeat</b> 💜  
 </p>
