@@ -65,10 +65,11 @@
 
 ## 🚀 Featured Projects
 
-### 🔴 Live Streaming Platform
+### 🔴 Virtual UI
 
-> WebRTC • MERN • Multi-user Streaming • Live Chat
-> 🔗 https://github.com/YOUR_USERNAME/live-streaming-app
+> NPM • MERN • AI Powered UI Library • Role based Authentication
+> 🔗 https://github.com/shrutisgh/VirtualUI
+> Live Demo:https://virtual-ui-web.onrender.com
 
 ---
 
@@ -76,6 +77,7 @@
 
 > Socket.IO • JWT Auth • Online Users
 > 🔗 https://github.com/shrutisgh/streamify-video-calls
+> Live Demo:https://streamify-video-calls-r492.onrender.com
 
 ---
 
